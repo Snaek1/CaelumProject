@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"M:/CaelumProject/Content/StarterContent/Architecture/train_test.uasset",
+				"M:/CaelumProject/Content/Maps/MainMap.umap",
+				"M:/CaelumProject/Content/StarterContent/Architecture/train_test_2.uasset",
+				"M:/CaelumProject/Content/StarterContent/Architecture/lambert1.uasset",
+				"M:/CaelumProject/Content/StarterContent/Architecture/standardSurface1.uasset",
 				"Z:/Uni/DES207/github/CaelumProject/Content/WwiseAudio/Events/Default_Work_Unit/test_event.uasset",
 				"Z:/Uni/DES207/github/CaelumProject/Content/Maps/MainMap.umap",
 				"Z:/Uni/DES207/github/CaelumProject/Content/WwiseAudio/Events/Default_Work_Unit/train_ambient.uasset",
